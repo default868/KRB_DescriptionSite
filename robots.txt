@@ -1,0 +1,4 @@
+User-agent: *
+ Allow: /
+ 
+ Sitemap: https://default868.github.io/KRB_DescriptionSite/sitemap.xml
